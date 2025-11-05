@@ -153,7 +153,7 @@ Omkar SL
 
 GitHub: omkarsl
 
-Email: your-email-here
+Email: omkarlokure10@gmail.com
 
 ⭐ If you found this project helpful, please give it a star!
 yaml
